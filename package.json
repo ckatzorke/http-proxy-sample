@@ -1,0 +1,24 @@
+{
+  "name": "http-proxy-sample",
+  "version": "0.0.0",
+  "description": "sample for a reverse proxy using nde",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "engines": {
+    "node": ">=0.10.21"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ckatzorke/http-proxy-sample.git"
+  },
+  "author": "ckatzorke@gmail.com",
+  "license": "BSD-2-Clause",
+  "bugs": {
+    "url": "https://github.com/ckatzorke/http-proxy-sample/issues"
+  },
+  "dependencies": {
+    "http-proxy": "~0.10.3"
+  }
+}
